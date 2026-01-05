@@ -1,0 +1,9 @@
+# Question 5 (Formula-based calculation)
+print("Hello! Let's calculate the area of your circle!")
+x = input("Insert a radius number:")
+radius = int(x)
+import math
+y = round(math.pi, 3)
+Area =  y * (radius * 2)
+print(f"The area of your circle is {Area:.3f}!")
+...
