@@ -1,0 +1,8 @@
+# Question 6 (Text & number type input handoing)
+print("Greetings!")
+x = input("Name:")
+y = input("Age:")
+name = str(x)
+age = int(y)
+print(f"Hello {name}, you are {age} years old!")
+...
