@@ -1,0 +1,9 @@
+# Question 10 (Real-World Problems - complete & sequential)
+print("Greetings!")
+x = input("Distance travelled (in km):")
+distance = float(x)
+y = input("Time taken (in hours):")
+time = float(y)
+aveSpeed = distance / time 
+print(f"The average speed of your journey was {aveSpeed:.3f}!")
+...
