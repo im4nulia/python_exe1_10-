@@ -1,0 +1,11 @@
+# Question 3 (More than one operator)
+print("Hello!")
+q = input("Insert a number:")
+r = input("Insert another number:")
+num1 = float(q)
+num2 = float(r)
+sumNum = num1 + num2
+difNum = num1 - num2
+proNum = num1 * num2
+print(f"The sum of your numbers is {sumNum}, the difference is {difNum} and the product is {proNum}!")
+...
