@@ -1,0 +1,6 @@
+# Question 1 (Basic input & output)
+print("Good morning!")
+x = input("Insert a number please:")
+num1 = int(x)
+print(f"Your number is {num1}!")
+...
